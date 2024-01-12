@@ -1,0 +1,7 @@
+In the sacred tapestry of Eldoria, the Cleric emerges as a guiding light.
+A new sacred harmony unfolds as you embody the healer, restoring balance to a realm besieged by chaos.
+Your journey is one of divine purpose, mending both wounds and destinies.
+
+Divine Aegis - The cleric invokes the power of their deity, creating a protective aura that shields allies from harm.
+The Divine Aegis not only absorbs incoming damage but also gradually heals those within its radius.
+It's a crucial move for providing support and sustaining the party in challenging encounters.

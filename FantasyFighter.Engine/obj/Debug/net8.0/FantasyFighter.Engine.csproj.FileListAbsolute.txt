@@ -1,0 +1,11 @@
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\bin\Debug\net8.0\FantasyFighter.Engine.deps.json
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\bin\Debug\net8.0\FantasyFighter.Engine.dll
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\bin\Debug\net8.0\FantasyFighter.Engine.pdb
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\obj\Debug\net8.0\FantasyFighter.Engine.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\obj\Debug\net8.0\FantasyFighter.Engine.AssemblyInfoInputs.cache
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\obj\Debug\net8.0\FantasyFighter.Engine.AssemblyInfo.cs
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\obj\Debug\net8.0\FantasyFighter.Engine.csproj.CoreCompileInputs.cache
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\obj\Debug\net8.0\FantasyFighter.Engine.dll
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\obj\Debug\net8.0\refint\FantasyFighter.Engine.dll
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\obj\Debug\net8.0\FantasyFighter.Engine.pdb
+d:\Users\Arianna\Desktop\Corsi\CORSO Full Stack\C#\FantasyFighter\FantasyFighter-main\FantasyFighter.Engine\obj\Debug\net8.0\ref\FantasyFighter.Engine.dll

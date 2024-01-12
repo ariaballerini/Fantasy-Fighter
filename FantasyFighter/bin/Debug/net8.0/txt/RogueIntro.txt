@@ -1,0 +1,8 @@
+Amidst the shadows of Eldoria, the Rogue emerges as a silent force.
+In a realm teeming with secrets, your skills are indispensable.
+Navigate the intricate dance of intrigue, execute precision strikes, and unveil the hidden threads that weave through Eldoria.
+
+Shadow Dance - The rogue seamlessly melds with the shadows, becoming nearly invisible to enemies.
+During the Shadow Dance, the rogue gains enhanced speed and critical strike chances, allowing for swift,
+deadly strikes from unexpected angles. This move is perfect for ambushes and hit-and-run tactics.
+
